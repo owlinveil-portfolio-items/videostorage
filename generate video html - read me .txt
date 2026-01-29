@@ -1,4 +1,0 @@
-BASH THIS to generate html file of the gallery
-
-
-node generate.js
